@@ -65,6 +65,7 @@ six==1.16.0
 sqlparse==0.4.2
 tomli==1.2.2
 typing_extensions==4.0.1
+unicorn==1.0.3
 uritemplate==4.1.1
 urllib3==1.26.7
 virtualenv==20.10.0
