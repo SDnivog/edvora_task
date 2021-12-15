@@ -55,6 +55,7 @@ protobuf==3.19.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
+PyJWT==2.3.0
 pyparsing==3.0.6
 pypika-tortoise==0.1.1
 python-dateutil==2.8.2
