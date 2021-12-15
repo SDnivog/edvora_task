@@ -33,6 +33,7 @@ pycparser==2.20
 pydantic==1.7.3
 PyJWT==1.7.1
 PyPika==0.44.1
+python-3.8.6
 pypika-tortoise==0.1.1
 python-dotenv==0.19.2
 python-multipart==0.0.5
